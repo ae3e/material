@@ -1,0 +1,1 @@
+qx.$$packageData['4096']={"locales":{},"resources":{"qx/icon/Tango/16/apps/utilities-calculator.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/utilities-notes.png":[16,16,"png","qx"],"qx/icon/Tango/16/apps/utilities-terminal.png":[16,16,"png","qx"]},"translations":{"en":{}}};
