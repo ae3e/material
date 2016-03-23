@@ -1,0 +1,4 @@
+qx.$$packageData['1028']={"locales":{},"resources":{},"translations":{"C":{},"en":{}}};
+qx.Part.$$notifyLoad("1028", function() {
+(function(){var a="label",b="checkbox",c="qx.ui.form.CheckBox",d="value",e="toolTipText",f="enabled",g="menu";qx.Class.define(c,{extend:qx.ui.form.ToggleButton,include:[qx.ui.form.MForm,qx.ui.form.MModelProperty],implement:[qx.ui.form.IForm,qx.ui.form.IModel],construct:function(h){{};qx.ui.form.ToggleButton.call(this,h);this.setValue(false);},properties:{appearance:{refine:true,init:b},allowGrowX:{refine:true,init:false}},members:{_forwardStates:{invalid:true,focused:true,undetermined:true,checked:true,hovered:true},_bindableProperties:[f,a,e,d,g]}});})();
+});

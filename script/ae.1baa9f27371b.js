@@ -1,0 +1,4 @@
+qx.$$packageData['82181']={"locales":{},"resources":{},"translations":{"C":{},"en":{}}};
+qx.Part.$$notifyLoad("82181", function() {
+(function(){var a="toolbar/part/container",b="icon",c="label",d="qx.ui.toolbar.PartContainer",e="qx.event.type.Event",f="changeShow",g="both",h="changeChildren";qx.Class.define(d,{extend:qx.ui.container.Composite,construct:function(){qx.ui.container.Composite.call(this);this._setLayout(new qx.ui.layout.HBox);},events:{changeChildren:e},properties:{appearance:{refine:true,init:a},show:{init:g,check:[g,c,b],inheritable:true,event:f}},members:{_afterAddChild:function(i){this.fireEvent(h);},_afterRemoveChild:function(j){this.fireEvent(h);}}});})();
+});
